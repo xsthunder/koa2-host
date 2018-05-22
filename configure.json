@@ -1,0 +1,16 @@
+{
+	"port":8080,
+	"subapp":[
+		{
+			"module_path":"../angularjs-material-build-template/",
+			"route":"/angularjs",
+			"alias":""
+		},{
+			"module_path":"../angularjs-material-build-template/",
+			"route":"/b",
+			"alias":""
+		}
+	]
+}
+
+

@@ -1,0 +1,16 @@
+{
+  "name": "koa2-host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "xsthunder",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-mount": "^3.0.0",
+    "koa-router": "^7.3.0"
+  }
+}
